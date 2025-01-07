@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jerson.carbajal.ramirez.es@gmail.com**<br>
 
-- 🤝 I’m looking to collaborate on project **Machine Learning, Data Analytics**<br>
+- 🤝 I’m looking to collaborate on project **Data Analytics and Machine Learning**<br>
 
 [![](https://visitcount.itsvg.in/api?id=jersoncarbajal&icon=0&color=0)](https://visitcount.itsvg.in)
 
